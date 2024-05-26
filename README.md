@@ -1,11 +1,12 @@
-### Hi there 👋, I am Hamshad!
+### Hi there 👋, I am Hamshad Shaikh, Mobile App Developer. Check out my <a href="https://read.cv/hamshad" target="_blank">Profile here.</a>
 
-<h5> Hi, I am Hamshad Shaikh, Mobile App Developer.
 </h5>
 <h6>
   <p>
-    - I code mostly in Java, Javascipt/Typescipt<br>
+    - I code in Java, Javascipt/Typescipt<br>
+    - I develop Native Android App using Android Studio or Cross-Platform Native App(for both android and ios) using React Native Framework<br>
     - I play games or watch movies, series, animes on my free time<br>
+    - I like playing BasketBall or go on trekking whenever I get a chance<br>
   </p>
 </h6>
 
